@@ -10,3 +10,8 @@ Regardless of the content of a bill being brought to a vote or the party which s
 
 ## Contributing
 Please submit any suggestions for improvement of this text as pull-requests against this repository.  If you're not familiar with git/Github, you can instead just [file an issue](https://github.com/ba66e77/DPPA/issues) describing the improvement.
+
+## Related Legistlation/Proposals
+
+### [HR 554](https://www.congress.gov/bill/111th-congress/house-resolution/554/text)
+This was introducted in 2009 and would have required posting of items online for public review 72 hours before being brought to the floor.  It apparently died in the hands of the Committee on Rules.
