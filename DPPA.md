@@ -6,7 +6,7 @@ A bill to ensure all candidate legislation receives adequate deliberation before
 
 Except in cases of [imminent national threat](#imminent-national-threat), no bill may be brought to a floor vote until:
 
-1. A final typed copy of the bill in machine searchable format, including all amendments or alterations, has been prepared.
+1. A final typed copy of the bill in machine searchable format, including all amendments or alterations, has been prepared and posted online for public review.
 2. The document described in clause #1 has been delivered to all members of the legislative body.
 3. A review period of no less than 24 hours has elapsed between the delivery of the document (see clause #2) and the bill being brought to a vote.
 
